@@ -25,3 +25,4 @@ It is also useful for IoT devices that do not follow typical login processes.
 Cloudflare WARP uses mTLS for Zero Trust security. This means that servers can be sure that only employees at the given organisation (e.g. THG) using WARP can access information from the server.
 
 ## Diagram
+![image](https://github.com/ZacGladman/networking-notes/assets/116086584/51df1c22-d6c6-4ef7-9775-5e2ab93a3fef)
