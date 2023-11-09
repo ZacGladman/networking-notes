@@ -22,11 +22,6 @@ mTLS is especially secure because, by ensuring that the client's identity is als
 It is also useful for IoT devices that do not follow typical login processes. 
 
 ## Example of mTLS
-
+Cloudflare WARP uses mTLS for Zero Trust security. This means that servers can be sure that only employees at the given organisation (e.g. THG) using WARP can access information from the server.
 
 ## Diagram
-
-- How is mTLS different from what has been described in this lecture (securing websites)?
-- Where is mTLS frequently used?
-- Give an example application which uses mTLS
-- Draw a diagram (I suggest https://excalidraw.com/) to show the process
